@@ -1,0 +1,82 @@
+[
+  {
+    "full_name": "Орлов Никита Евгеньевич",
+    "email": "eagle1607@gmail.com",
+    "phone_number": 89608795190,
+    "password": "qwerty",
+    "roles": {"title": "администратор"}
+  },
+
+  {
+    "full_name": "Полешко Ратибор Андреевич",
+    "email": "poleshko@gmail.com",
+    "phone_number": 89608795191,
+    "password": "qwerty",
+    "roles": {"title": "администратор"}
+  },
+
+  {
+    "full_name": "Козякин Андрей Андреевич",
+    "email": "gerting@gmail.com",
+    "phone_number": 89608795192,
+    "password": "qwerty",
+    "roles": {"title": "администратор"}
+  },
+
+  {
+    "full_name": "Ильин Андрей Александрович",
+    "email": "andruxa@gmail.com",
+    "phone_number": 89608795193,
+    "password": "qwerty",
+    "roles": {"title": "волонтер"}
+  },
+
+  {
+    "full_name": "Егоров Максим Сергеевич",
+    "email": "klop@gmail.com",
+    "phone_number": 89608795194,
+    "password": "qwerty",
+    "roles": {"title": "волонтер"}
+  },
+
+  {
+    "full_name": "Сердюков Егор Иванович",
+    "email": "orange@gmail.com",
+    "phone_number": 89608795195,
+    "password": "qwerty",
+    "roles": {"title": "волонтер"}
+  },
+
+  {
+    "full_name": "Пузиков Иван Иванович",
+    "email": "puzia@gmail.com",
+    "phone_number": 89608795196,
+    "password": "qwerty",
+    "roles": {"title": "посетитель"}
+  },
+
+  {
+    "full_name": "Некрасов Александр Александрович",
+    "email": "nekr@gmail.com",
+    "phone_number": 89608795197,
+    "password": "qwerty",
+    "roles": {"title": "посетитель"}
+  },
+
+  {
+    "full_name": "Емельяненко Федор Сергеевич",
+    "email": "mma@gmail.com",
+    "phone_number": 89608795198,
+    "password": "qwerty",
+    "roles": {"title": "посетитель"}
+  },
+
+  {
+    "full_name": "Герасимов Петр Генадьевич",
+    "email": "dog@gmail.com",
+    "phone_number": 89608795199,
+    "password": "qwerty",
+    "roles": {"title": "посетитель"}
+  }
+
+]
